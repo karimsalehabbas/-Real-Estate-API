@@ -1,0 +1,28 @@
+{
+  "apartments": [
+    {
+      "id": 1,
+      "images": ["img/property-1.jpg", "img/property-2.jpg"],
+      "price": "250000",
+      "description": "A beautiful apartment in the city center.",
+      "property_type": "Apartment",
+      "location": "Downtown",
+      "bedrooms": 3,
+      "name": "John Doe",
+      "phone": "12132154",
+      "position": "Engineer"
+    },
+    {
+      "id": 2,
+      "images": ["img/property-3.jpg", "img/property-4.jpg"],
+      "price": "180000",
+      "description": "A cozy house near the park.",
+      "property_type": "House",
+      "location": "Suburbs",
+      "bedrooms": 2,
+      "name": "Alice Smith",
+      "phone": "98765432",
+      "position": "Architect"
+    }
+  ]
+}
